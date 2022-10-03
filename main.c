@@ -7,4 +7,7 @@ according to my own Phonetic System.
 
 It means that I'll need a rand function that will compare the generated number to a number located in a vector and return the correct or incorrect statement.
 
+My phonetic system has it's values changed from numbers to words as it follows:
+00 - Susi        10 - Dice         20 - Nasa      30 - Maze        40 - Rose        50 - Lisa      60 -  Chess        70 - Gize         80 - Vase       90 - Piza         100 - Tesis 
+
 */
